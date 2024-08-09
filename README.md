@@ -1,6 +1,6 @@
 # Go-Park-Vehicle-Parking-Project
-Backend: Java,
-Database: MySQL,
+Backend: .Net,
+Database: SQL Server,
 Frontend: Html,Css,Javascript ,React js,
 Payment Gateway: ,
 
